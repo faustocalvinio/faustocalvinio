@@ -2,4 +2,4 @@
 
 Que tal?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact&theme=gruvbox)](https://github.com/faustocalvinio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact&theme=tokyonight)](https://github.com/faustocalvinio/github-readme-stats)
