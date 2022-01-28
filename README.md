@@ -6,8 +6,8 @@ Contactame:
 -[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/faustocalvinio)
 &nbsp;
 <br>
--Correo electronico:
-<div>
+-Correo electronico: faustocalvino@outlook.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact&theme=tokyonight)](https://github.com/faustocalvinio?tab=repositories)
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -16,4 +16,4 @@ Contactame:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-</div>
+
