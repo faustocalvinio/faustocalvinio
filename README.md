@@ -3,10 +3,10 @@
 
 Contactame:
 <br>
--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/faustocalvinio)
+[![Linkedin](https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-linkedin) LinkedIn](https://www.linkedin.com/in/faustocalvinio)
 &nbsp;
 <br>
--Correo electronico: faustocalvino@outlook.com
+Correo electronico: faustocalvino@outlook.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact&theme=tokyonight)](https://github.com/faustocalvinio?tab=repositories)
 <h4 align="left">Languages and Tools:</h3>
