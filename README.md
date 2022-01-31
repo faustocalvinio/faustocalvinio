@@ -3,8 +3,7 @@
 
 Contactame:
 <br>
-[![Linkedin](https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-linkedin) LinkedIn](https://www.linkedin.com/in/faustocalvinio)
-&nbsp;
+<a href="https://www.linkedin.com/in/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" alt="git" width="120" height="30"/></a>
 <br>
 Correo electronico: faustocalvino@outlook.com
 
@@ -17,4 +16,3 @@ Correo electronico: faustocalvino@outlook.com
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png" alt="git" width="120" height="50"/></a>
 </p>
-
