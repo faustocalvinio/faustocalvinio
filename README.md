@@ -19,5 +19,5 @@ Correo electronico: faustocalvino@outlook.com
 <h4 align="left">Currently learning</h4>
 <p align="left">
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/react-logo.png?raw=true" alt="html5" width="70" height="70"/></a>
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/faustocalvinio/faustocalvinio/6d6df0d19f83bc59ab40882d2111bb312914fe69/assets/MongoDB_Logo.svg" alt="logo-mongodb" width="70" height="70"/></a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/mongodb.png?raw=true" alt="logo-mongodb" width="70" height="70"/></a>
 </p>
