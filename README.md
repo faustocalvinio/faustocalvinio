@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Fausto Calviño</h1>
 <h3 align="center">actualmente estoy estudiando desarrollo web Frontend</h3>
 
-Contactame:
+<h4>Contactame:</h4>
 <br>
 <a href="https://www.linkedin.com/in/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" alt="git" width="120" height="30"/></a>
 <br>
