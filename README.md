@@ -8,7 +8,7 @@
 Correo electronico: faustocalvino@outlook.com
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact)](https://github.com/faustocalvinio?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvini&layout=compact)](https://github.com/faustocalvinio?tab=repositories)
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/html5-logo.png?raw=true" alt="logo-html5" width="65" height="70"/></a>
