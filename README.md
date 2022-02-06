@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" alt="git" width="120" height="30"/></a>
 <br>
 Correo electronico: faustocalvino@outlook.com
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact)](https://github.com/faustocalvinio?tab=repositories)
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
