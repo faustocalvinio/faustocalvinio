@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋 soy Fausto Calviño</h1>
-<h3 align="center">actualmente estoy estudiando desarrollo web Frontend</h3>
+<h1 align="center">Hi 👋 i am Fausto Calviño</h1>
+<h3 align="center">currently studying Frontend Web Development</h3>
 
-<h4>Contactame:</h4>
+<h4>Contact me</h4>
 <br>
 <a href="https://www.linkedin.com/in/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" alt="git" width="120" height="30"/></a>
 <br>
-Correo electronico: faustocalvino@outlook.com
+Email: faustocalvino@outlook.com
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact)](https://github.com/faustocalvinio?tab=repositories)
