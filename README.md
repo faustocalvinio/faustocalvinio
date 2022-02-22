@@ -15,7 +15,7 @@ Email: faustocalvino@outlook.com
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/css-logo.png?raw=true" alt="logo-css3" width="65" height="70"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="logo-javascript" width="75" height="75"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="logo-python" width="70" height="70"/></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png" alt="logo-git" width="160" height="70"/></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/git-logo.png?raw=true" alt="logo-git" width="160" height="70"/></a>
 </p>
 <h4 align="left">Currently learning</h4>
 <p align="left">
