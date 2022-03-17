@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 i am Fausto Calviño</h1>
-<h3 align="center">currently studying Frontend Web Development</h3>
+<p align="center">Hi 👋 i am Fausto Calviño</p>
+<p align="center">currently studying Frontend Web Development</p>
 
 <h4>Contact me</h4>
 <br>
