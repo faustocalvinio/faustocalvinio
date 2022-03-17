@@ -24,8 +24,9 @@ front end mentor profile?
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/mongodb.png?raw=true" alt="logo mongodb" width="70" height="80"/></a>
 </p>
 <h4 align="left">More social media</h4>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/fccamp-logo.png?raw=true" alt="logo freecodecamp" width="170" height="40"/></a>
-<a href="https://https://www.frontendmentor.io/profile/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/frontend-mentor-logo.png?raw=true" alt="logo frontend mentor" width="170" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/fccamp-logo.png?raw=true" alt="logo freecodecamp" width="190" height="40"/></a>
+<br>
+<a href="https://https://www.frontendmentor.io/profile/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/frontend-mentor-logo.png?raw=true" alt="logo frontend mentor" width="190" height="40"/></a>
 
 
 
