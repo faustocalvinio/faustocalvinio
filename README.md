@@ -23,11 +23,9 @@ Email: faustocalvino@outlook.com
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/mongodb.png?raw=true" alt="logo mongodb" width="70" height="80"/></a>
 </p>
 <h4 align="left">More social media</h4>
-<a href="freecodecamp.org/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/fccamp-logo.png?raw=true" alt="logo freecodecamp" width="210" height="40"/></a>
+<a href="freecodecamp.org/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/fccamp-logo.png?raw=true" alt="logo freecodecamp" width="230" height="40"/></a>
 <br>
 <br>
-<br>
-
 <a href="frontendmentor.io/profile/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/frontend-mentor-logo.png?raw=true" alt="logo frontend mentor" width="210" height="40"/></a>
 
 
