@@ -6,7 +6,6 @@
 <a href="https://www.linkedin.com/in/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" alt="git" width="120" height="30"/></a>
 <br>
 Email: faustocalvino@outlook.com
-front end mentor profile?
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact)](https://github.com/faustocalvinio?tab=repositories)
@@ -24,9 +23,12 @@ front end mentor profile?
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/mongodb.png?raw=true" alt="logo mongodb" width="70" height="80"/></a>
 </p>
 <h4 align="left">More social media</h4>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/fccamp-logo.png?raw=true" alt="logo freecodecamp" width="190" height="40"/></a>
+<a href="freecodecamp.org/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/fccamp-logo.png?raw=true" alt="logo freecodecamp" width="210" height="40"/></a>
 <br>
-<a href="https://https://www.frontendmentor.io/profile/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/frontend-mentor-logo.png?raw=true" alt="logo frontend mentor" width="190" height="40"/></a>
+<br>
+<br>
+
+<a href="frontendmentor.io/profile/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/frontend-mentor-logo.png?raw=true" alt="logo frontend mentor" width="210" height="40"/></a>
 
 
 
