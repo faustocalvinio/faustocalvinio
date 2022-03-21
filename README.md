@@ -3,7 +3,7 @@
 
 *<h4>Contact me</h4>*
 <br>
-<a href="https://www.linkedin.com/in/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" alt="git" width="120" height="35"/></a>
+<a href="https://www.linkedin.com/in/faustocalvinio" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" alt="git" width="140" height="35"/></a>
 <br>
 **Email** : faustocalvino@outlook.com
 <br>
