@@ -7,7 +7,8 @@
 <br>
 **Email** : faustocalvino@outlook.com
 <br>
-
+*<h4>Personal Website</h4>*
+<a href="https://www.faustocalvinio.com" rel="noreferrer">**faustocalvinio.com**</a>
 *<h4 align="left">Languages and Tools</h4>*
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/html5-logo.png?raw=true" alt="logo html5" width="65" height="70"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/faustocalvinio/faustocalvinio/blob/main/assets/css-logo.png?raw=true" alt="logo css3" width="65" height="70"/></a>
