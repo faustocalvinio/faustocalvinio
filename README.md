@@ -3,6 +3,5 @@
 
 *<h4 align="left">GitHub Stats</h4>*
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustocalvinio&layout=compact)](https://github.com/faustocalvinio?tab=repositories)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
