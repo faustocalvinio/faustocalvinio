@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, Tailwind**
 
-- 👨‍💻 All of my projects are available at [faustocalvinio.web.app](faustocalvinio.web.app)
+- 👨‍💻 All of my projects are available at [faustocalvinio.netlify.app](https://faustocalvinio.netlify.app/)
 
 - 📫 How to reach me **faustocalvino@gmail.com**
 
