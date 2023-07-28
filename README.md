@@ -1,6 +1,5 @@
 
-**<h1 align="center">Hi 👋, I'm Fausto Calviño<h1/>**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=30&duration=7000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Frontend+Web+Developer)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Fausto Calviño</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 
