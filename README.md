@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **faustocalvino@gmail.com**
 
-- 📄 Know about my experiences [faustocalvinio.web.app](faustocalvinio.web.app)
+- 📄 Know about my experiences [faustocalvinio.netlify.app](https://faustocalvinio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
