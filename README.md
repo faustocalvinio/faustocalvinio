@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🌱 I’m currently learning **React, TypeScript, Tailwind**
+- 🌱 I’m currently learning **NextJS, TypeScript, Tailwind**
 
 - 👨‍💻 All of my projects are available at [faustocalvinio.netlify.app](https://faustocalvinio.netlify.app/)
 
