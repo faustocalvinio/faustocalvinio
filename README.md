@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [faustocalvinio.netlify.app](https://faustocalvinio.netlify.app/)
 
-- 📫 How to reach me **faustocalvino@gmail.com**
+- :email: Get in touch with me sending me an email [here](mailto:faustocalvino@gmail.com)
 
 - 📄 Know about my experiences [faustocalvinio.netlify.app](https://faustocalvinio.netlify.app/)
 
