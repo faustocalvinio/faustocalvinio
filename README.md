@@ -2,13 +2,11 @@
 <h3 align="center">A passionate front-end web developer</h3>
 
 
-- 🌱 I’m currently learning **NextJS and TypeScript**
-
-- 👨‍💻 All of my projects are available at [faustocalvinio.netlify.app](https://faustocalvinio.netlify.app/)
+- :brain: I’m currently learning **NextJS and TypeScript**
 
 - :email: Get in touch with me sending me an email [here](mailto:faustocalvino@gmail.com)
 
-- 📄 Know about my experiences [faustocalvinio.netlify.app](https://faustocalvinio.netlify.app/)
+- :world_map: Know about my experiences and my project [here](https://faustocalvinio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
