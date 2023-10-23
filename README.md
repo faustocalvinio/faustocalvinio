@@ -21,10 +21,10 @@
 </div>
 
 </p>
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">My Skills</h2>
 
 <details open>
-<summary><b>Frontend</b></summary>
+<summary><b>:desktop_computer:	Front-end</b></summary>
 <br>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@
 </details>
 
 <details open>
-<summary><b>Backend</b></summary>
+<summary><b>:mailbox_with_mail: Back-end</b></summary>
 <br>
 
 
@@ -45,7 +45,7 @@
 </details>
 
 <details open>
-<summary><b>Database</b></summary>
+<summary><b>:floppy_disk: Database</b></summary>
 <br>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -53,7 +53,7 @@
 </details>
 
 <details open>
-<summary><b>Software and Tools</b></summary>
+<summary><b>:hammer_and_wrench:	Software and Tools</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
