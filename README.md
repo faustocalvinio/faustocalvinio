@@ -6,7 +6,7 @@
 
 - :email: Get in touch with me sending me an email [here](mailto:faustocalvino@gmail.com)
 
-- :world_map: Know about my experiences and my project [here](https://faustocalvinio.netlify.app/)
+- :world_map: Know about my experiences and my projects [here](https://faustocalvinio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
