@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Fausto Calviño</h1>
-<h3 align="center">A passionate front-end web developer</h3>
+<h3 align="left">Hi there :facepunch:</h1>
+<h3 align="left">I'm Fausto, a full-stack web developer</h3>
 
 
-- :brain: I’m currently learning **NextJS and TypeScript**
+- :brain: I’m currently learning **NextJS and TypeScript**.
 
-- :email: Get in touch with me sending me an email [here](mailto:faustocalvino@gmail.com)
+- :email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
 
-- :world_map: Know about my experiences and my projects in my [portfolio](https://faustocalvinio.netlify.app/)
+- :world_map: Know about my experiences and my projects in my [portfolio](https://faustocalvinio.netlify.app/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
     
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:faustocalvino@gmail.com)](mailto:faustocalvino@gmail.com)&nbsp;
-[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faustocalvinio)](https://www.linkedin.com/in/faustocalvinio)
+
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faustocalvinio)](https://www.linkedin.com/in/faustocalvinio)
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/faustocalvinio)](https://www.frontendmentor.io/profile/faustocalvinio)&nbsp;
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/faustocalvinio)](https://www.freecodecamp.org/faustocalvinio)&nbsp;
+
 </div>
 
 </p>
-<h2 align="center">My Skills</h2>
+<h3 align="left">My Skills</h2>
 
 <details open>
 <summary><b>:desktop_computer:	Front-end</b></summary>
