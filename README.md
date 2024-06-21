@@ -2,12 +2,12 @@
 <h3 align="left">I'm Fausto, a full-stack web developer</h3>
 
 
-- :brain: I’m currently learning **NextJS and TypeScript**.
+:brain: I’m currently learning **NextJS and TypeScript**.
 
-- :email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
+:email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
 
-- :world_map: Know about my experiences and my projects in my [portfolio](https://faustocalvinio.netlify.app/).
-
+:world_map: Know about my experiences and my projects in my [portfolio](https://faustocalvinio.netlify.app/).
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
@@ -19,6 +19,7 @@
 </div>
 
 </p>
+<hr>
 <h3 align="left">My Skills</h2>
 
 <details open>
@@ -30,6 +31,7 @@
 [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![TypeScript](https://img.shields.io/badge/typescript-2D79C7.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
 [![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)](https://react.dev/)&nbsp;
+[![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)](https://nextjs.org/)&nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)&nbsp;
 
 </details>
@@ -49,6 +51,8 @@
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
 [![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)&nbsp;
+[![Posgresql](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)&nbsp;
+
 </details>
 
 <details open>
@@ -62,7 +66,7 @@
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)&nbsp;
 
 </details>
-
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustocalvinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="faustocalvinio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faustocalvinio&show_icons=true&theme=dark&locale=en" alt="faustocalvinio" /></p>
