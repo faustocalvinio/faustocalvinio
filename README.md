@@ -20,7 +20,7 @@
 
 </p>
 <hr>
-<h3 align="left">My Skills</h2>
+<h3 align="left">My Skillss</h2>
 
 <details open>
 <summary><b>:desktop_computer:	Front-end</b></summary>
