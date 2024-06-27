@@ -1,8 +1,8 @@
-<h3 align="left">Hi there :facepunch:</h1>
+<h2 align="left">Hi there :facepunch:</h1>
 <h3 align="left">I'm Fausto, a full-stack web developer</h3>
 
 
-:brain: I’m currently learning **NextJS and TypeScript**.
+:brain: I’m currently learning **Nodejs** and **Go**.
 
 :email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
 
@@ -20,7 +20,7 @@
 
 </p>
 <hr>
-<h3 align="left">My Skillss</h2>
+<h3 align="left">My Skills</h2>
 
 <details open>
 <summary><b>:desktop_computer:	Front-end</b></summary>
