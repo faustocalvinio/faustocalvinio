@@ -8,7 +8,7 @@
 
 :world_map: Know about my experiences and my projects in my [portfolio](https://faustocalvinio.netlify.app/).
 <hr/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <div>
     
