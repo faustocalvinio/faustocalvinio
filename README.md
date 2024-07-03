@@ -1,8 +1,8 @@
-<h2 align="left">Hi there :facepunch:</h1>
+<h1 align="left">Hi there :facepunch:</h1>
 <h3 align="left">I'm Fausto, a front-end web developer</h3>
 
 
-:brain: I’m currently learning **Nodejs** and **Go**.
+:brain: Currently I am expanding my skills in Node.js, Go, and databases.
 
 :email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
 
@@ -46,7 +46,7 @@
 </details>
 
 <details open>
-<summary><b>:floppy_disk: Database</b></summary>
+<summary><b>:floppy_disk: Databases</b></summary>
 <br>
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
