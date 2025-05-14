@@ -1,8 +1,8 @@
 <h1 align="left">Hi there :facepunch:</h1>
-<h3 align="left">I'm Fausto, a front-end web developer</h3>
+<h3 align="left">I'm Fausto, a full-stack web developer</h3>
 
 
-:brain: Currently I am expanding my skills in Node.js, Go, and databases.
+:brain: Currently I am expanding my skills in Python, Go, and databases.
 
 :email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
 
