@@ -1,8 +1,31 @@
 <h1 align="left">Hi there :facepunch:</h1>
-<h3 align="left">I'm Fausto, a full-stack web developer</h3>
 
+### About Me
+I am a Full-Stack Web Developer with 3 years of experience, specializing in React and Next.js development. Self-taught since 2021, I have built a strong foundation in web development fundamentals and modern frameworks.
 
-:brain: Currently I am expanding my skills in Python, Go, and databases.
+### Technical Skills
+- *Frontend:* React, Next.js, HTML, CSS, JavaScript
+- *Backend:* Currently expanding knowledge in Node.js
+- *Databases:* Growing expertise in database technologies
+- *Learning:* Continuously improving my tech stack
+
+### Experience
+- 3 years of hands-on experience in web development
+- Strong focus on React and Next.js ecosystems
+- Self-driven learning and project implementation since 2021
+
+### What I'm Looking For
+- Role: Full-Stack Web Developer position
+- Location: Madrid (Open to both remote and hybrid arrangements)
+- Type: Full-time opportunity
+- Environment: Dynamic development team where I can contribute and grow
+
+### Goals
+- Continue strengthening both technical and soft skills
+- Collaborate with experienced developers
+- Contribute to meaningful projects
+- Further expand knowledge in Node.js and database technologies
+
 
 :email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
 
