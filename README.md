@@ -42,39 +42,62 @@ I am a Full-Stack Web Developer with 3 years of experience, specializing in Reac
 
 </p>
 <hr>
-<h3 align="left">My Skills</h2>
 
-<details open>
-<summary><b>:desktop_computer:	Front-end</b></summary>
-<br>
-  
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="faustocalvinio" />&nbsp;
+## 🛠️ Tech Stack
 
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="150px">
+      <h3>Frontend</h3>
+    </td>
+    <td align="center" width="150px">
+      <h3>Backend</h3>
+    </td>
+    <td align="center" width="150px">
+      <h3>Databases</h3>
+    </td>
+    <td align="center" width="150px">
+      <h3>Tools & Others</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3"/><br>
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript"/><br>
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React"/><br>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js"/><br>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js"/><br>
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB"/><br>
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase"/><br>
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git"/><br>
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub"/><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker"/><br>
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" title="Postman"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" title="VS Code"/>
+    </td>
+  </tr>
+</table>
 
-<details open>
-<summary><b>:mailbox_with_mail: Back-end</b></summary>
-<br>
-<img align="center" src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="faustocalvinio" />&nbsp;
-
-
-</details>
-&nbsp;
-<details open>
-<summary><b>:floppy_disk: Databases</b></summary>
-<br>
-
-<img align="center" src="https://skillicons.dev/icons?i=mongodb,firebase,postgres&theme=dark" alt="faustocalvinio" />&nbsp;
-
-</details>
-
-<details open>
-<summary><b>:hammer_and_wrench:	Software and Tools</b></summary>
-<br>
-
-<img align="center" src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="faustocalvinio" />&nbsp;
-
-</details>
+### 📊 Experience Level
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **Frontend** | React, Next.js, JavaScript, HTML, CSS | ⭐⭐⭐⭐⭐ Advanced |
+| **Styling** | Tailwind CSS, CSS3 | ⭐⭐⭐⭐⭐ Advanced |
+| **TypeScript** | Type-safe development | ⭐⭐⭐⭐ Intermediate+ |
+| **Backend** | Node.js, Express.js | ⭐⭐⭐ Intermediate |
+| **Databases** | MongoDB, Firebase, PostgreSQL | ⭐⭐⭐ Intermediate |
+| **Tools** | Git, GitHub, Docker, VS Code | ⭐⭐⭐⭐ Advanced |
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustocalvinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="faustocalvinio" />
 
