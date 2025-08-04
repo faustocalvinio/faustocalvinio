@@ -28,22 +28,11 @@ I am a Full-Stack Web Developer with 3 years of experience, specializing in Reac
 
 
 :email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
-
+:briefcase: Connect with me on [LinkedIn](https://www.linkedin.com/in/faustocalvinio).
 :world_map: Know about my experiences and my projects in my [portfolio](https://facal.me/).
-<hr/>
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<div>
-    
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/faustocalvinio)&nbsp;
 
 
-</div>
-
-</p>
-<hr>
-
-## 🛠️ Tech Stack
+### Tech Stack
 
 <table align="center">
   <tr>
@@ -91,7 +80,6 @@ I am a Full-Stack Web Developer with 3 years of experience, specializing in Reac
     </td>
   </tr>
 </table>
-<hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustocalvinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="faustocalvinio" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faustocalvinio&show_icons=true&theme=dark&locale=en" alt="faustocalvinio" />
