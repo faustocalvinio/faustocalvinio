@@ -1,84 +1,127 @@
-<h1 align="left">Hi there :facepunch:</h1>
+<div align="center">
+  
+# 👋 Hi, I'm Fausto Calvinio
 
-### About Me
-I am a Full-Stack Web Developer with 3 years of experience, specializing in React and Next.js development. Self-taught since 2021, I have built a strong foundation in web development fundamentals and modern frameworks.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;React+%26+Next.js+Specialist;3%2B+Years+Experience;Self-taught+since+2021)](https://git.io/typing-svg)
 
-### Technical Skills
-- *Frontend:* React, Next.js, HTML, CSS, JavaScript
-- *Backend:* Currently expanding knowledge in Node.js
-- *Databases:* Growing expertise in database technologies
-- *Learning:* Continuously improving my tech stack
-
-### Experience
-- 3 years of hands-on experience in web development
-- Strong focus on React and Next.js ecosystems
-- Self-driven learning and project implementation since 2021
-
-### What I'm Looking For
-- Role: Full-Stack Web Developer position
-- Location: Madrid (Open to both remote and hybrid arrangements)
-- Type: Full-time opportunity
-- Environment: Dynamic development team where I can contribute and grow
-
-### Goals
-- Continue strengthening both technical and soft skills
-- Collaborate with experienced developers
-- Contribute to meaningful projects
-- Further expand knowledge in Node.js and database technologies
-
-
-:email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
-
-:world_map: Know about my experiences and my projects in my [portfolio](https://facal.me/).
-<hr/>
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<div>
-    
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/faustocalvinio)&nbsp;
-
+<img src="https://komarev.com/ghpvc/?username=faustocalvinio&label=Profile%20views&color=0e75b6&style=flat" alt="faustocalvinio" />
 
 </div>
 
-</p>
-<hr>
-<h3 align="left">My Skills</h2>
+---
 
-<details open>
-<summary><b>:desktop_computer:	Front-end</b></summary>
-<br>
-  
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="faustocalvinio" />&nbsp;
+## 🚀 About Me
+```markdown
+🎯 Full-Stack Web Developer with 3+ years of experience
+🚀 Specializing in React and Next.js development
+📚 Self-taught since 2021 with strong fundamentals
+🌱 Currently expanding backend expertise
+```
 
-</details>
+<div align="center">
 
-<details open>
-<summary><b>:mailbox_with_mail: Back-end</b></summary>
-<br>
-<img align="center" src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="faustocalvinio" />&nbsp;
+### 💼 Current Focus
+**Seeking Full-Stack Developer Role in Madrid** 🇪🇸  
+*Open to Remote & Hybrid arrangements*
 
+</div>
 
-</details>
-&nbsp;
-<details open>
-<summary><b>:floppy_disk: Databases</b></summary>
-<br>
+## 🛠️ Technical Skills
 
-<img align="center" src="https://skillicons.dev/icons?i=mongodb,firebase,postgres&theme=dark" alt="faustocalvinio" />&nbsp;
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-</details>
+**Frontend Development**
+- ⚛️ React & Next.js
+- 🎨 HTML5, CSS3, JavaScript
+- 🎯 TypeScript
+- 💫 Tailwind CSS
 
-<details open>
-<summary><b>:hammer_and_wrench:	Software and Tools</b></summary>
-<br>
+</td>
+<td align="center" width="50%">
 
-<img align="center" src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="faustocalvinio" />&nbsp;
+**Backend & Database**
+- 🚀 Node.js & Express
+- 🍃 MongoDB
+- 🔥 Firebase
+- 🐘 PostgreSQL
 
-</details>
-<hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustocalvinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="faustocalvinio" />
+</td>
+</tr>
+</table>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=faustocalvinio&show_icons=true&theme=dark&locale=en" alt="faustocalvinio" />
+## 🎯 Professional Goals
 
+- 💪 **Strengthen** both technical and soft skills
+- 🤝 **Collaborate** with experienced developers  
+- 🚀 **Contribute** to meaningful projects
+- 📈 **Expand** Node.js and database expertise
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+📧 **Email:** [faustocalvino@outlook.com](mailto:faustocalvino@outlook.com)  
+🌐 **Portfolio:** [facal.me](https://facal.me/)  
+💼 **LinkedIn:** [faustocalvinio](https://www.linkedin.com/in/faustocalvinio)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faustocalvinio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://facal.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faustocalvino@outlook.com)
+
+</div>
+
+---
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faustocalvinio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="faustocalvinio" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faustocalvinio&theme=tokyonight&hide_border=true" alt="faustocalvinio" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustocalvinio&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="faustocalvinio" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Code is like humor. When you have to explain it, it's bad."* ⭐
+
+**Thanks for visiting! Let's build something amazing together** 🚀
 
 </div>
