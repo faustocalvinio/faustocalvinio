@@ -72,32 +72,25 @@ I am a Full-Stack Web Developer with 3 years of experience, specializing in Reac
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js"/><br>
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js"/>
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js"/><br>
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP"/>
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB"/><br>
       <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase"/><br>
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL"/>
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git"/><br>
       <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub"/><br>
       <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker"/><br>
       <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" title="Postman"/><br>
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" title="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" title="VS Code"/><br>
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" title="WordPress"/>
     </td>
   </tr>
 </table>
-
-### 📊 Experience Level
-| Category | Technologies | Proficiency |
-|----------|-------------|-------------|
-| **Frontend** | React, Next.js, JavaScript, HTML, CSS | ⭐⭐⭐⭐⭐ Advanced |
-| **Styling** | Tailwind CSS, CSS3 | ⭐⭐⭐⭐⭐ Advanced |
-| **TypeScript** | Type-safe development | ⭐⭐⭐⭐ Intermediate+ |
-| **Backend** | Node.js, Express.js | ⭐⭐⭐ Intermediate |
-| **Databases** | MongoDB, Firebase, PostgreSQL | ⭐⭐⭐ Intermediate |
-| **Tools** | Git, GitHub, Docker, VS Code | ⭐⭐⭐⭐ Advanced |
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustocalvinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="faustocalvinio" />
 
