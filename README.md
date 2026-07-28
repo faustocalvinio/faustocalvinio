@@ -1,47 +1,92 @@
-# Fausto Calviño
+<h1 align="center">Fausto Calviño</h1>
+<p align="center"><em>Software Engineer · IA aplicada · Sistemas multiagente · Automatización</em></p>
+<p align="center">Remoto · Argentina</p>
+<p align="center">
+  <a href="https://faustocalvinio.com">Web</a> ·
+  <a href="https://www.linkedin.com/in/faustocalvinio/">LinkedIn</a> ·
+  <a href="mailto:faustocalvino@outlook.com">Email</a>
+</p>
 
-Soy Software Engineer. Me interesa especialmente trabajar con inteligencia artificial aplicada, sistemas multiagente y automatización de procesos.
+---
 
-Trabajo de forma remota desde Argentina. Desarrollo software a medida, integraciones y herramientas que buscan resolver problemas concretos: tareas repetitivas, información dispersa o procesos que todavía dependen demasiado de trabajo manual.
+> Construyo software a medida para problemas concretos: tareas repetitivas, información dispersa y procesos que todavía dependen demasiado de trabajo manual.
 
-## En qué trabajo
-
-Me muevo principalmente entre el desarrollo web y la automatización. Diseño sistemas con agentes de IA, conecto servicios mediante APIs y webhooks, y construyo productos full-stack cuando el problema necesita una interfaz o una aplicación propia.
-
-También trabajo con herramientas como n8n, Google Workspace, Notion, PostgreSQL y CRMs para integrar procesos que ya existen dentro de una empresa.
-
-## Un proyecto en el que estoy trabajando
-
-### Plataforma multi-rubro de agentes de IA
-
-Es un MVP que uso para explorar cómo distintos equipos de agentes pueden trabajar sobre dominios específicos.
+## Enfoque
 
 | | |
-| --- | --- |
-| **Arquitectura** | 55 crews y aproximadamente 270 agentes |
-| **Dominios** | Contable, legal, inmobiliario, salud, RR. HH., marketing, tecnología y educación |
-| **Stack** | CrewAI, Python, OpenCode LLM, Firecrawl Search y Streamlit |
-| **Estado** | MVP funcional; los crews principales ya están estables y sigo trabajando en especializaciones |
-| **Próximos pasos** | Mejorar los tests, sumar datos de prueba y unificar el frontend |
+|---|---|
+| **Agentes de IA** | Arquitecturas multiagente con CrewAI, MCP y RAG sobre dominios específicos. |
+| **Integraciones** | APIs, webhooks, n8n, Google Workspace y CRMs para conectar procesos existentes. |
+| **Producto full-stack** | Interfaces y aplicaciones con Astro, Next.js, NestJS y PostgreSQL cuando el problema lo necesita. |
+| **Automatización** | ETL, captación de leads, mensajería, monitoreo y pipelines de datos. |
 
-Uno de los casos es `terrenos_funes`, una crew inmobiliaria con siete agentes y scrapers propios hechos con `httpx` y BeautifulSoup. El objetivo es capturar, normalizar y analizar información sobre lotes.
+## Proyecto destacado
+
+### [Plataforma multi-rubro de agentes de IA](https://github.com/faustocalvinio/practica_agentes_crewai_python)
+
+Un MVP para explorar cómo equipos de agentes operan sobre dominios específicos.
+
+| | |
+|---|---|
+| **Arquitectura** | 55 crews · ~270 agentes |
+| **Dominios** | Contable, legal, inmobiliario, salud, RR. HH., marketing, tecnología y educación |
+| **Stack** | CrewAI · Python · OpenCode LLM · Firecrawl · Streamlit |
+| **Estado** | MVP funcional — crews principales estables |
+| **Próximos pasos** | Tests, datos de prueba y unificación del frontend |
+
+**Caso `terrenos_funes`** — crew inmobiliaria con siete agentes y scrapers propios (`httpx` + BeautifulSoup) para capturar, normalizar y analizar información sobre lotes.
 
 > Los módulos legal, contable y de salud son prototipos técnicos de apoyo y no sustituyen el asesoramiento de profesionales matriculados.
 
-## Tecnologías que uso
+## Stack
 
-Para IA y automatización: `Python`, `CrewAI`, `n8n`, `LLMs`, `RAG`, `MCP`, `Firecrawl`, webhooks y APIs REST.
+### IA y automatización
 
-Para desarrollo web: `Astro`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Node.js`, `Express`, `NestJS` y `Tailwind CSS`.
+| Categoría | Herramientas |
+|---|---|
+| **Orquestación de agentes** | CrewAI · MCP · n8n |
+| **Modelos y memoria** | OpenCode LLM · RAG · Bases vectoriales |
+| **Extracción de datos** | Firecrawl Search · Scraping custom (`httpx` + BeautifulSoup) |
+| **Integraciones** | APIs REST · Webhooks · Google Workspace · Notion · PostgreSQL |
+| **Lenguaje** | Python |
 
-Para datos e infraestructura: `PostgreSQL`, `MongoDB`, `MySQL`, `Prisma`, `Docker`, `AWS`, `Vercel` y `GitHub Actions`.
+### Web
 
-## Otros proyectos
+| Categoría | Herramientas |
+|---|---|
+| **Frameworks** | Astro · React · Next.js · Qwik |
+| **Lenguajes** | TypeScript · JavaScript |
+| **Backend** | Node.js · Express · NestJS |
+| **Estilos** | Tailwind CSS · Bootstrap |
+| **CMS** | WordPress · Elementor · WooCommerce |
 
-También trabajé en automatizaciones con n8n para captación de leads, CRM, mensajería, ETL, monitoreo y RAG. Entre otros proyectos están CurateHub, una colección personal de recursos de desarrollo web; Cars Management, una API REST con panel full-stack; QR Ticketing; y distintos sitios con WordPress y WooCommerce.
+### Datos e infraestructura
 
-## Ahora estoy aprendiendo y probando
+| Categoría | Herramientas |
+|---|---|
+| **Bases de datos** | PostgreSQL · MongoDB · MySQL |
+| **ORM y queries** | Prisma · Mongoose |
+| **Testing** | Jest · Vitest |
+| **Estado del cliente** | TanStack Query · Zustand |
+| **Despliegue** | Docker · Vercel · Netlify · AWS |
+| **CI/CD** | GitHub Actions |
 
-Sigo profundizando en arquitecturas multiagente, memoria y herramientas con CrewAI, RAG y bases vectoriales, integraciones entre agentes, PostgreSQL y Google Workspace, y el uso de MCP para automatizar flujos internos.
+### Herramientas de desarrollo
 
-Si estás trabajando en un proceso repetitivo o difícil de escalar, podemos conversar sobre una solución de software, IA aplicada o automatización.
+Git · GitHub · Postman · VS Code · Copilot · MCPs
+
+## Actualmente
+
+Profundizo en arquitecturas multiagente con CrewAI — específicamente en memoria compartida entre crews, herramientas custom y patrones de orquestación que permitan a los agentes coordinarse sobre dominios extensos.
+
+Trabajo con RAG y bases vectoriales para dar contexto a los agentes sin depender de prompts gigantes. Experimento con MCP para estandarizar la comunicación entre agentes, PostgreSQL y Google Workspace como fuentes de datos operativas, y flujos internos que reemplazan tareas manuales repetitivas.
+
+En paralelo, sigo construyendo desarrollos web a medida e integraciones con sistemas existentes — el foco está en optimizar procesos internos de empresas: menos pasos, menos fricción, operación más clara.
+
+---
+
+## Contacto
+
+¿Tenés un proceso repetitivo o difícil de escalar? Conversemos sobre software, IA aplicada o automatización.
+
+[Web](https://faustocalvinio.com) · [LinkedIn](https://www.linkedin.com/in/faustocalvinio/) · [Email](mailto:faustocalvino@outlook.com)
