@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Portfolio personal · Software · IA aplicada · Automatización
+   Software a medida · IA aplicada · Automatizaciones
 </p>
 
 ## Sobre mí
@@ -88,39 +88,6 @@ Construí y exploré workflows para:
 - **QR Ticketing:** API con MongoDB, Mongoose y JWT.
 - **Battiart:** e-commerce con WordPress, WooCommerce y PayPal.
 - **Sitios WordPress:** portales de noticias, landings, e-commerce y sitios autogestionables.
-
-## Este repositorio
-
-Este proyecto contiene la versión Astro del portfolio personal. La interfaz combina una dirección visual editorial y tecnológica con contenido estructurado en Markdown.
-
-```text
-src/
-├── components/          # Header y Footer
-├── content/
-│   ├── articles/        # Notas técnicas
-│   ├── experience/      # Trayectoria profesional
-│   ├── projects/        # Casos de estudio
-│   └── services/        # Servicios ofrecidos
-├── layouts/             # Layout global y metadata
-├── pages/               # Home, proyectos, notas y robots.txt
-└── styles/              # Tokens, responsive y componentes visuales
-```
-
-### Ejecutar localmente
-
-```bash
-npm install
-npm run dev
-```
-
-Para generar la versión de producción:
-
-```bash
-npm run build
-npm run preview
-```
-
-El sitio se genera como salida estática y está preparado para desplegarse en Vercel.
 
 ## Notas técnicas
 
