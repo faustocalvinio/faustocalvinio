@@ -1,90 +1,138 @@
-<h1 align="left">Hi there :facepunch:</h1>
+# Fausto Calviño · Software, IA y automatización
 
-### About Me
-I am a Full-Stack Web Developer with 3 years of experience, specializing in React and Next.js development. Self-taught since 2021, I have built a strong foundation in web development fundamentals and modern frameworks.
+<p align="left">
+  <strong>Software Engineer especializado en sistemas multiagente, agentes IA y automatización de procesos internos.</strong><br>
+  Trabajo remoto · Argentina · Internacional
+</p>
 
-### Technical Skills
-- *Frontend:* React, Next.js, HTML, CSS, JavaScript
-- *Backend:* Currently expanding knowledge in Node.js
-- *Databases:* Growing expertise in database technologies
-- *Learning:* Continuously improving my tech stack
+<p align="left">
+  Portfolio personal · Software · IA aplicada · Automatización
+</p>
 
-### Experience
-- 3 years of hands-on experience in web development
-- Strong focus on React and Next.js ecosystems
-- Self-driven learning and project implementation since 2021
+## Sobre mí
 
-### What I'm Looking For
-- Role: Full-Stack Web Developer position
-- Location: Madrid (Open to both remote and hybrid arrangements)
-- Type: Full-time opportunity
-- Environment: Dynamic development team where I can contribute and grow
+Desde mediados de 2021 me formo de manera autodidacta como Software Engineer. Mi base está en el desarrollo full-stack con React, Next.js, Node.js y bases de datos; actualmente profundizo en Python, CrewAI, n8n y la construcción de sistemas inteligentes.
 
-### Goals
-- Continue strengthening both technical and soft skills
-- Collaborate with experienced developers
-- Contribute to meaningful projects
-- Further expand knowledge in Node.js and database technologies
+Me interesa convertir procesos dispersos, repetitivos o difíciles de conectar en sistemas claros, documentados y útiles para los equipos que los utilizan.
 
+## En qué puedo ayudar
 
-:email: Get in touch with me sending me an  [email](mailto:faustocalvino@outlook.com).
+- **Orquestación de agentes:** diseño de crews, roles, tareas, herramientas y flujos multiagente.
+- **Agentes inteligentes a medida:** agentes en Python conectados a APIs, bases de datos, buscadores y herramientas de negocio.
+- **Automatización interna:** workflows end-to-end con n8n, webhooks, APIs REST, alertas y trazabilidad.
+- **Integraciones empresariales:** Google Workspace, Gmail, Calendar, Sheets, Notion, PostgreSQL, CRMs y sistemas existentes.
+- **Software web personalizado:** interfaces, APIs y productos full-stack adaptados al proceso real.
 
-:briefcase: Connect with me on [LinkedIn](https://www.linkedin.com/in/faustocalvinio).
+## Proyecto destacado: Plataforma Multi-Rubro de Agentes IA
 
-:world_map: Know about my experiences and my projects in my [portfolio](https://facal.me/).
+Una plataforma experimental y funcional para explorar distintos dominios mediante sistemas especializados:
 
+| Alcance | Detalle |
+| --- | --- |
+| Arquitectura | 55 crews y aproximadamente 270 agentes |
+| Dominios | Contable, Legal, Inmobiliario, Salud, RRHH, Marketing, Tecnología y Educación |
+| Stack | CrewAI, Python, OpenCode LLM, Firecrawl Search y Streamlit |
+| Estado | MVP funcional, con crews principales estables y especializadas en progreso |
+| Próximos pasos | Tests, seed data adicional y frontend unificado |
 
-### Tech Stack
+El caso más singular es `terrenos_funes`: una crew inmobiliaria con siete agentes y scrapers custom construidos con `httpx` y BeautifulSoup para capturar, normalizar y analizar información de lotes.
 
-<table align="center">
-  <tr>
-    <td align="center" width="150px">
-      <h3>Frontend</h3>
-    </td>
-    <td align="center" width="150px">
-      <h3>Backend</h3>
-    </td>
-    <td align="center" width="150px">
-      <h3>Databases</h3>
-    </td>
-    <td align="center" width="150px">
-      <h3>Tools & Others</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5"/><br>
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3"/><br>
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript"/><br>
-      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript"/><br>
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React"/><br>
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js"/><br>
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js"/><br>
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js"/><br>
-      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB"/><br>
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase"/><br>
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/><br>
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git"/><br>
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub"/><br>
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker"/><br>
-      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" title="Postman"/><br>
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" title="VS Code"/><br>
-      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" title="WordPress"/>
-    </td>
-  </tr>
-</table>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustocalvinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="faustocalvinio" />
+> Los dominios legal, contable y salud se presentan como prototipos técnicos y sistemas de apoyo. No sustituyen el asesoramiento de profesionales matriculados.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=faustocalvinio&show_icons=true&theme=dark&locale=en" alt="faustocalvinio" />
+## Experiencia con n8n
 
+Construí y exploré workflows para:
 
-</div>
+- Captura y calificación de leads.
+- Automatización de emails y seguimiento.
+- Integración con CRMs.
+- Bots de WhatsApp y Telegram.
+- Scraping y procesamiento de sitios web.
+- Generación y publicación de contenido con IA.
+- RAG con bases vectoriales.
+- Webhooks y APIs REST.
+- Gmail, Calendar, Sheets y otras herramientas de Google Workspace.
+- Notion y PostgreSQL.
+- ETL, monitoreo, notificaciones y orquestación de agentes.
+
+## Stack
+
+### IA y automatización
+
+`Python` · `CrewAI` · `n8n` · `LLMs` · `RAG` · `MCP` · `Firecrawl` · `Webhooks` · `APIs REST`
+
+### Frontend y producto web
+
+`Astro` · `React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `TailwindCSS`
+
+### Backend y datos
+
+`Node.js` · `Express.js` · `NestJS` · `PostgreSQL` · `MongoDB` · `MySQL` · `Prisma`
+
+### Infraestructura y herramientas
+
+`Docker` · `Vercel` · `Netlify` · `AWS` · `Git` · `GitHub Actions` · `Postman` · `VS Code`
+
+### CMS y testing
+
+`WordPress` · `Elementor` · `WooCommerce` · `Jest` · `Vitest`
+
+## Proyectos
+
+- **Plataforma Multi-Rubro de Agentes IA:** arquitectura multiagente para ocho dominios.
+- **terrenos_funes:** scrapers y agentes para investigación inmobiliaria.
+- **Automatizaciones empresariales con n8n:** workflows, integraciones, RAG y procesos internos.
+- **CurateHub:** colección personal de recursos de desarrollo web.
+- **Blog personal:** notas para documentar aprendizajes técnicos.
+- **Cars Management:** API REST y panel full-stack.
+- **QR Ticketing:** API con MongoDB, Mongoose y JWT.
+- **Battiart:** e-commerce con WordPress, WooCommerce y PayPal.
+- **Sitios WordPress:** portales de noticias, landings, e-commerce y sitios autogestionables.
+
+## Este repositorio
+
+Este proyecto contiene la versión Astro del portfolio personal. La interfaz combina una dirección visual editorial y tecnológica con contenido estructurado en Markdown.
+
+```text
+src/
+├── components/          # Header y Footer
+├── content/
+│   ├── articles/        # Notas técnicas
+│   ├── experience/      # Trayectoria profesional
+│   ├── projects/        # Casos de estudio
+│   └── services/        # Servicios ofrecidos
+├── layouts/             # Layout global y metadata
+├── pages/               # Home, proyectos, notas y robots.txt
+└── styles/              # Tokens, responsive y componentes visuales
+```
+
+### Ejecutar localmente
+
+```bash
+npm install
+npm run dev
+```
+
+Para generar la versión de producción:
+
+```bash
+npm run build
+npm run preview
+```
+
+El sitio se genera como salida estática y está preparado para desplegarse en Vercel.
+
+## Notas técnicas
+
+La sección de notas documenta temas que estoy explorando y aplicando:
+
+1. Arquitecturas multiagente con CrewAI.
+2. Crews, tareas, herramientas y memoria.
+3. Automatizaciones empresariales con n8n y webhooks.
+4. RAG y bases vectoriales.
+5. Agentes conectados a APIs, PostgreSQL y Google Workspace.
+6. MCP, agentes y automatización de flujos internos.
+
+## Contacto
+
+Si tenés un proceso interno repetitivo, desconectado o difícil de escalar, podemos conversar sobre una solución a medida. Próximamente se habilitarán los canales de contacto y los casos completos.
